@@ -1,29 +1,18 @@
 ﻿https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
 
+Para subir coisas
 
 git add pasta/arquivo
-
 git status
-
 git commit -m “subindo tal arquivo”
-
 git log
-
-git remote add origin https://github.com/kendiwi/github.git
-
+git remote add origin https://github.com/kendiwi/lessons.git
 git push -u origin master
+#git push --set-upstream origin <branchname>
 
 para deletar
 
 git rm file1.txt
 git commit -m "remove file1.txt"
-
-
-para atualizar, eh normal
-
-so dar
-git add
-git commit
-git push
-
+git push -u origin master
 
