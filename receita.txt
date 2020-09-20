@@ -1,0 +1,21 @@
+﻿https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
+
+
+git add pasta/arquivo
+
+git status
+
+git commit -m “subindo tal arquivo”
+
+git log
+
+git remote add origin https://github.com/kendiwi/github.git
+
+git push -u origin master
+
+para deletar
+
+git rm file1.txt
+git commit -m "remove file1.txt"
+
+
