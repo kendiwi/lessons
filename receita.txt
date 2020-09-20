@@ -1,6 +1,4 @@
-﻿https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
-
-Para subir coisas
+﻿Para subir coisas
 
 git add pasta/arquivo
 git status
