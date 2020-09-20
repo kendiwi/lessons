@@ -18,6 +18,12 @@ para deletar
 git rm file1.txt
 git commit -m "remove file1.txt"
 
-testei
+
+para atualizar, eh normal
+
+so dar
+git add
+git commit
+git push
 
 
